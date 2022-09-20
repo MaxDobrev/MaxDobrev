@@ -3,3 +3,9 @@
  text-align: center;
  color: white;
 }
+
+.text-goat-image {
+position: absolute;
+ top: 50%;
+ left: 50%;
+}
